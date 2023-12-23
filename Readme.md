@@ -1,7 +1,8 @@
 ### Self Driving CAR(Lane Detection)
 
 ##### 1. 프로젝트명(Project Name): Self Driving CAR(Lane Detection) python
-##### 2. 작성자(Author): 정도윤(Doyoon Jung)
+##### 2. 작성자(Author): 
+##### -  석사과정 정도윤(Doyoon Jung)
 ##### 3. 작성일자(Create Date): 2023-12-08(Fri)
 ##### 3. 이메일(E-mail): rabbit.white at daum dot net
 ##### 4. 비고(Description):
